@@ -1,0 +1,12 @@
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\bin\Debug\SGM_Student_Record_System_2022.exe
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\bin\Debug\SGM_Student_Record_System_2022.pdb
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.frm_Student_App_Login.resources
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.Properties.Resources.resources
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.csproj.GenerateResource.Cache
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.exe
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.pdb
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.frm_Add_New_Student.resources
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.frm_Search_Student_Details.resources
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.frm_View_Student_List.resources
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\obj\x86\Debug\SGM_Student_Record_System_2022.csprojResolveAssemblyReference.cache
+D:\Fork  Assignment\Assignment 3\SGM_Student_Record_System_2022\SGM_Student_Record_System_2022\bin\Debug\SGM_Student_Record_System_2022.exe.config
