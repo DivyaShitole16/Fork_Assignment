@@ -1,0 +1,8 @@
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\bin\Debug\File_Upload_Assignment.exe
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\bin\Debug\File_Upload_Assignment.pdb
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.frm_Upload_File.resources
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.Properties.Resources.resources
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.csproj.GenerateResource.Cache
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.exe
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.pdb
+D:\Fork  Assignment\File_Upload_Assignment\File_Upload_Assignment\obj\x86\Debug\File_Upload_Assignment.csprojResolveAssemblyReference.cache
